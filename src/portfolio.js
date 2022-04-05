@@ -21,12 +21,12 @@ const illustration = {
 
 const greeting = {
   username: "Julian Parada",
-  title: "Hola, Mi nombre es Julian",
+  title: "Hola, Mi nombre es Julian Esteban Parada",
   subTitle: emoji(
-    "Un apasionado Full Stack Software Developer 🚀 tengo experiencia construyendo aplicaciones Web y Mobiles con JavaScript / Reactjs / Nodejs  y algunas otras geniales bibliotecas y frameworks.",
+    "Un apasionado Full Stack Software Developer, 🚀 tengo experiencia construyendo aplicaciones Web y Mobiles con JavaScript / Reactjs / Nodejs  y algunas otras geniales bibliotecas y frameworks.",
   ),
   resumeLink:
-    "https://drive.google.com/file/d/16lwWfxnul2geI6VbYwUIQe80tNPeXw8X/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/19vV460sAsv7EROumpyY2aAOKZlTW_3kW/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -174,27 +174,32 @@ export const images = {
       {   
           src : "https://i.imgur.com/W6EKKmi.png",
           href : "https://blais3pasc4l.github.io/salon_app/",
-          title : "1"
+          title : "Salon App",
+          description: "Aplicacion web para gestionar salones de belleza haciendo uso unicamente de html y css nativos"
       },
       {   
           src : "https://i.imgur.com/6ZZs4Qs.png",
           href : "https://blog-caf.netlify.app//",
-          title : "2"
+          title : "Blog App",
+          description: "Blog enfocado en demostrar mis conocimientos en html y css nativos"
+      },
+      {   
+        src : "https://i.imgur.com/DQUxy04.png",
+        href : "https://blais3pasc4l.github.io/Edm-y-Rock/",
+        title : "Rock and EDM",
+        description: "Pagina web para promocionar un festival de rock y edm desarrollada con el objetivo de poner en practica mis conocimientos en UX/UI"
       },
       {   
           src : "https://i.imgur.com/Nn9YJFC.png",
           href : "https://userm4p.github.io/React-Buscador-de-gifs/",
-          title : "3"
-      },
-      {   
-          src : "https://i.imgur.com/DQUxy04.png",
-          href : "https://blais3pasc4l.github.io/Edm-y-Rock/",
-          title : "4"
+          title : "Buscador de gifs" , 
+          description: "Buscador de gifs hecho con React haciendo peticiones a una API de tipo REST que provee GIPHY, una de las más populares y que usan muchas redes sociales como WhatsApp, Facebook, Instagram, etc."
       },
       {
         src : "https://i.imgur.com/eePGy36.png",
         href : "https://github.com/Userm4p/HeroesApp",
-        title : "5"
+        title : "Heroes App",
+        description: "Es un landing page en donde se podrá encontrar una lista de los superheroes más conocidos de las franquicias de Marvel y DC comics, en donde haciendo click en cada una de sus respectivas tarjetas se puede acceder a una información más detallada."
       }
   ]
 }

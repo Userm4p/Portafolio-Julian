@@ -21,10 +21,14 @@
 }
 
 .header {
+  font-size: medium;
   background-color: $lightBackground1;
   max-width: 100%;
   padding: 15px 20px;
   margin: 0px auto;
+
+
+
 }
 
 .header ul {
@@ -43,6 +47,10 @@
   padding: 15px 20px;
   color: $textColor;
   text-decoration: none;
+  &:hover {
+    transition: all 0.25s ease;
+    text-shadow: 2px 4px 5px rgb(0, 0, 0);
+  }
 }
 
 .header li a:hover,

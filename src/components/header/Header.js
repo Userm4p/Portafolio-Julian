@@ -15,7 +15,7 @@ import {
 
 function Header() {
   const {isDark} = useContext(StyleContext);
-  const viewExperience = workExperiences.display;
+  // const viewExperience = workExperiences.display;
   // const viewOpenSource = openSource.display;
   const viewSkills = skillsSection.display;
   // const viewAchievement = achievementSection.display;
@@ -70,7 +70,19 @@ function Header() {
             </li>
           )} */}
           <li>
+            <a href="#education">Educacion</a>
+          </li>
+          <li>
+            <a href="#opensource">Proyectos</a>
+          </li>
+          <li>
+            <a href="#projects">Startup</a>
+          </li>
+          <li>
             <a href="#contact">Contactame</a>
+          </li>
+          <li>
+            <a href="#greeting">Acerca de mi</a>
           </li>
           <li>
             {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
