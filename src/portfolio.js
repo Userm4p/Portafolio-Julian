@@ -200,6 +200,18 @@ export const images = {
         href : "https://github.com/Userm4p/HeroesApp",
         title : "Heroes App",
         description: "Es un landing page en donde se podrá encontrar una lista de los superheroes más conocidos de las franquicias de Marvel y DC comics, en donde haciendo click en cada una de sus respectivas tarjetas se puede acceder a una información más detallada."
+      },
+      {
+        src : "https://i.imgur.com/vXfetJE.png",
+        href : "https://countrysapp.netlify.app",
+        title : "Countrys App",
+        description: "Es una aplicación web que nos permite ver todos los paises de la tierra, con sus respectivas capitales, poblacion, bandera, etc. Fue diseñada con React, React-Router-Dom y Bootstrap, la informacion de los paises fue extraida de una API REST. Cuenta con paginacion, busqueda por nombre del país y una pagina de información para cada país."
+      },
+      {
+        src : "https://i.imgur.com/Ojk093E.png",
+        href : "https://userm4p.github.io/Recipes-App/",
+        title : "Recipes App",
+        description: "Es una aplicación web ilustrativa enfocada en recopilar recetas de una API REST, que nos permite buscar recetas de comida, Fue diseñada con React y SASS, es responsive y puede ser visualizada desde cualquier dispositivo sin errores de interfaz."
       }
   ]
 }
