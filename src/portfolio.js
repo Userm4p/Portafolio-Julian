@@ -81,6 +81,10 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-js"
     },
     {
+      skillName: "Typescript",
+      fontAwesomeClassname: "fab fa-js"
+    },
+    {
       skillName: "reactjs",
       fontAwesomeClassname: "fab fa-react"
     },
@@ -212,6 +216,18 @@ export const images = {
         href : "https://userm4p.github.io/Recipes-App/",
         title : "Recipes App",
         description: "Es una aplicación web ilustrativa enfocada en recopilar recetas de una API REST, que nos permite buscar recetas de comida, Fue diseñada con React y SASS, es responsive y puede ser visualizada desde cualquier dispositivo sin errores de interfaz."
+      },
+      {
+        src : "https://i.imgur.com/iOBdB8c.png",
+        href : "https://marvel-challenge-app.netlify.app",
+        title : "Marvel App",
+        description: "Es una aplicación web completamente responsive que nos permite ver comics, series, personajes e historia de Marvel, con sus respectivas imagenes, descripciones y mas. Fue diseñada con React, Redux, React-Router-Dom y CSS, la informacion de los personajes fue extraida de una API REST. Cuenta con busqueda por nombre del personaje y diferentes categorias."
+      },
+      {
+        src: "https://i.imgur.com/pOnNtvI.png",
+        href: "https://movies-app-julianp.netlify.app",
+        title: "Movies App",
+        description: "Es una aplicación web que nos permite ver las peliculas mas populares y añadir peliculas a nuestros favoritos con sus respectivas imagenes, descripciones, comentarios de los usuarios y mas, la aplicación cuenta con un login completamente funcional que funciona en base al sistema de usuarios de The Movies DB. Fue diseñada con React, Redux, React-Router-Dom y CSS, la informacion de las peliculas fue extraida de una API REST"
       }
   ]
 }
@@ -240,6 +256,11 @@ const bigProjects = {
       projectName: "Parangón",
       projectDesc: "Desarollor de React.js",
     },
+    {
+      image:"https://media-exp1.licdn.com/dms/image/C4E0BAQGW-pd52Nihcw/company-logo_200_200/0/1568133506441?e=2147483647&v=beta&t=MFDfKsyHIcZ9veB_wOT15bEY7aK99MUzwDpurxuIrcw",
+      projectName: "Png technologies solution",
+      projectDesc: "Desarollador Frontend",
+    }
   ],
   display: true 
 };
