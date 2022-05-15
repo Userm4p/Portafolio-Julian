@@ -176,49 +176,43 @@ const techStack = {
 export const images = {
   img : [
       {   
-          src : "https://i.imgur.com/W6EKKmi.png",
+          src : "https://i.imgur.com/nT2Nwg1.png",
           href : "https://blais3pasc4l.github.io/salon_app/",
           title : "Salon App",
           description: "Aplicacion web para gestionar salones de belleza haciendo uso unicamente de html y css nativos"
       },
       {   
-          src : "https://i.imgur.com/6ZZs4Qs.png",
+          src : "https://i.imgur.com/lzeHH6L.png",
           href : "https://blog-caf.netlify.app//",
           title : "Blog App",
           description: "Blog enfocado en demostrar mis conocimientos en html y css nativos"
       },
       {   
-        src : "https://i.imgur.com/DQUxy04.png",
+        src : "https://i.imgur.com/yxYerji.png",
         href : "https://blais3pasc4l.github.io/Edm-y-Rock/",
         title : "Rock and EDM",
         description: "Pagina web para promocionar un festival de rock y edm desarrollada con el objetivo de poner en practica mis conocimientos en UX/UI"
       },
       {   
-          src : "https://i.imgur.com/Nn9YJFC.png",
+          src : "https://i.imgur.com/K93Xanj.png",
           href : "https://userm4p.github.io/React-Buscador-de-gifs/",
           title : "Buscador de gifs" , 
           description: "Buscador de gifs hecho con React haciendo peticiones a una API de tipo REST que provee GIPHY, una de las más populares y que usan muchas redes sociales como WhatsApp, Facebook, Instagram, etc."
       },
       {
-        src : "https://i.imgur.com/eePGy36.png",
+        src : "https://i.imgur.com/zUIKd3r.png",
         href : "https://github.com/Userm4p/HeroesApp",
         title : "Heroes App",
         description: "Es un landing page en donde se podrá encontrar una lista de los superheroes más conocidos de las franquicias de Marvel y DC comics, en donde haciendo click en cada una de sus respectivas tarjetas se puede acceder a una información más detallada."
       },
       {
-        src : "https://i.imgur.com/vXfetJE.png",
+        src : "https://i.imgur.com/NqlgO2i.png",
         href : "https://countrysapp.netlify.app",
         title : "Countrys App",
         description: "Es una aplicación web que nos permite ver todos los paises de la tierra, con sus respectivas capitales, poblacion, bandera, etc. Fue diseñada con React, React-Router-Dom y Bootstrap, la informacion de los paises fue extraida de una API REST. Cuenta con paginacion, busqueda por nombre del país y una pagina de información para cada país."
       },
       {
-        src : "https://i.imgur.com/Ojk093E.png",
-        href : "https://userm4p.github.io/Recipes-App/",
-        title : "Recipes App",
-        description: "Es una aplicación web ilustrativa enfocada en recopilar recetas de una API REST, que nos permite buscar recetas de comida, Fue diseñada con React y SASS, es responsive y puede ser visualizada desde cualquier dispositivo sin errores de interfaz."
-      },
-      {
-        src : "https://i.imgur.com/iOBdB8c.png",
+        src : "https://i.imgur.com/hdjCUFz.png",
         href : "https://marvel-challenge-app.netlify.app",
         title : "Marvel App",
         description: "Es una aplicación web completamente responsive que nos permite ver comics, series, personajes e historia de Marvel, con sus respectivas imagenes, descripciones y mas. Fue diseñada con React, Redux, React-Router-Dom y CSS, la informacion de los personajes fue extraida de una API REST. Cuenta con busqueda por nombre del personaje y diferentes categorias."
