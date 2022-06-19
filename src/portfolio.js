@@ -222,6 +222,12 @@ export const images = {
         href: "https://movies-app-julianp.netlify.app",
         title: "Movies App",
         description: "Es una aplicación web que nos permite ver las peliculas mas populares y añadir peliculas a nuestros favoritos con sus respectivas imagenes, descripciones, comentarios de los usuarios y mas, la aplicación cuenta con un login completamente funcional que funciona en base al sistema de usuarios de The Movies DB. Fue diseñada con React, Redux, React-Router-Dom y CSS, la informacion de las peliculas fue extraida de una API REST"
+      },
+      {
+        src: "https://i.imgur.com/QuOY00x.png",
+        href: "https://clock-react-app.netlify.app",
+        title: "Clock App",
+        description: "Es una aplicación web completamente responsive que nos permite visualizar un reloj en base a la relacion de aspecto que tenga tu pantalla, siendo que en el caso de que la resolucion sea mayor o menor a 1024px el reloj cambiara completamente de aspecto. Fue desarrollada usando React con typescript y CSS"
       }
   ]
 }
