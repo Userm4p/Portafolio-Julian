@@ -183,7 +183,7 @@ export const images = {
         src: "https://i.imgur.com/QuOY00x.png",
         href: "https://clock-react-app.netlify.app",
         title: "Clock App",
-        description: "Es una aplicación web completamente responsive que nos permite visualizar un reloj en base a la relacion de aspecto que tenga tu pantalla, siendo que en el caso de que la resolucion sea mayor o menor a 1024px el reloj cambiara completamente de aspecto. Fue desarrollada usando React con typescript y CSS"
+        description: "Es una aplicación web completamente responsive que nos permite visualizar un reloj en base a la relación de aspecto que tenga tu pantalla, siendo que en el caso de que la resolución sea mayor o menor a 1024px el reloj cambiara completamente de aspecto. Fue desarrollada usando React con typescript y CSS"
       },
       {
         src : "https://i.imgur.com/zUIKd3r.png",
@@ -206,22 +206,33 @@ export const images = {
       {
         src : "https://i.imgur.com/NqlgO2i.png",
         href : "https://countrysapp.netlify.app",
-        title : "Countrys App",
-        description: "Es una aplicación web que nos permite ver todos los paises de la tierra, con sus respectivas capitales, poblacion, bandera, etc. Fue diseñada con React, React-Router-Dom y Bootstrap, la informacion de los paises fue extraida de una API REST. Cuenta con paginacion, busqueda por nombre del país y una pagina de información para cada país."
+        title : "Countries App - React",
+        description: "Es una aplicación web que nos permite ver todos los países de la tierra, con sus respectivas capitales, población, bandera, etc. Fue diseñada con React, React-Router-Dom y Bootstrap, la información de los países fue extraída de una API REST. Cuenta con paginacion, búsqueda por nombre del país y una pagina de información para cada país."
+      },
+      {
+        src : "https://i.imgur.com/mu1soet.png",
+        href : "https://julian-paises-app-angular.netlify.app",
+        title : "Countries App - Angular",
+        description: "Es una aplicación web que nos permite ver todos los países de la tierra, con sus respectivas capitales, población, bandera, etc. Fue diseñada con Angular 14 haciendo uso del modulo de peticiones HTTPS, el modulo de rutas y pipes, la información de los países fue extraída de una API REST. Cuenta búsqueda por nombre del país, secciones para buscar por diferentes categorías, barra de búsqueda con autocompletado y una pagina de información para cada país."
       },
       {
         src : "https://i.imgur.com/hdjCUFz.png",
         href : "https://marvel-challenge-app.netlify.app",
         title : "Marvel App",
-        description: "Es una aplicación web completamente responsive que nos permite ver comics, series, personajes e historia de Marvel, con sus respectivas imagenes, descripciones y mas. Fue diseñada con React, Redux, React-Router-Dom y CSS, la informacion de los personajes fue extraida de una API REST. Cuenta con busqueda por nombre del personaje y diferentes categorias."
+        description: "Es una aplicación web completamente responsive que nos permite ver comics, series, personajes e historia de Marvel, con sus respectivas imágenes, descripciones y mas. Fue diseñada con React, Redux, React-Router-Dom y CSS, la información de los personajes fue extraída de una API REST. Cuenta con búsqueda por nombre del personaje y diferentes categorías."
       },
       {
         src: "https://i.imgur.com/pOnNtvI.png",
         href: "https://movies-app-julianp.netlify.app",
         title: "Movies App",
-        description: "Es una aplicación web que nos permite ver las peliculas mas populares y añadir peliculas a nuestros favoritos con sus respectivas imagenes, descripciones, comentarios de los usuarios y mas, la aplicación cuenta con un login completamente funcional que funciona en base al sistema de usuarios de The Movies DB. Fue diseñada con React, Redux, React-Router-Dom y CSS, la informacion de las peliculas fue extraida de una API REST"
+        description: "Es una aplicación web que nos permite ver las películas mas populares y añadir películas a nuestros favoritos con sus respectivas imágenes, descripciones, comentarios de los usuarios y mas, la aplicación cuenta con un login completamente funcional que funciona en base al sistema de usuarios de The Movies DB. Fue diseñada con React, Redux, React-Router-Dom y CSS, la información de las películas fue extraída de una API REST"
       },
-      
+      {
+        src:"/Royal-films.jpg",
+        href:"https://royal-films.com/cartelera/",
+        title: "Royal Films",
+        description:"Esta aplicación fue desarrollada por mi junto con el equipo de PNG web technologies con la tecnología de angular en el front y NodeJS con sequalize en el backend y las bases de datos estaban en sql server, su función es manejar toda la infraestructura digital de la compañía Royal Films desde el area de ventas hasta la gestión de inventario y personal "
+      }
       
   ]
 }
@@ -254,6 +265,11 @@ const bigProjects = {
       image:"https://media-exp1.licdn.com/dms/image/C4E0BAQGW-pd52Nihcw/company-logo_200_200/0/1568133506441?e=2147483647&v=beta&t=MFDfKsyHIcZ9veB_wOT15bEY7aK99MUzwDpurxuIrcw",
       projectName: "Png technologies solution",
       projectDesc: "Fullstack Developer - Fullstack Semi Senior Developer",
+    },
+    {
+      image: "/C4C7US_LOGO_512x512-07.png",
+      projectName: "C4C7US",
+      projectDesc: "Senior Frontend Developer",
     },
   ],
   display: true 
